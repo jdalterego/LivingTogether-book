@@ -1,0 +1,6 @@
+*.log
+.Rhistory
+*.code-workspace
+*.Rproj
+*.rds
+.Rproj.user/**
