@@ -1,15 +1,20 @@
 --- 
-title: "Living Together: The story of Hansalim"
+title: "Living Together: Hansalim"
 author: "Jonathan Dolley"
 date: "2022-01-01"
 site: bookdown::bookdown_site
-documentclass: book
+documentclass: krantz #refers to krantz.cls file in root directory copied from Robinlovelace/geocompr
+monofont: "Source Code Pro"
+monofontoptions: "Scale=0.7"
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-description: 
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
+colorlinks: yes
+graphics: yes
+description: "This 3 year research project is a Marie Skłodowska-Curie Action - Global Fellowship led by Dr Jonathan Dolley and supervised by the Science Policy Research Unit (SPRU, University of Sussex Business School, UK) and the Mosim and Salim Research Institute (South Korea). Through this project I am investigating the story of the Korean cooperative, Hansalim, which grew from a small rice market on the outskirts of Seoul in 1986 to become one of the worlds largest organic food cooperatives with 750,000 members and producers. I want to find out what lessons their experience holds for other cooperative groups and movements in the UK and EU as we strive to transform our food systems away from industrialized models towards a fairer and more sustainable future. Hence the title of the fellowship: 'Hansalim as a model for solidarity pathways towards sustainable food systems'. This book is to be the main output from my research."
+github-repo: "JonathanDolley/LivingTogether-book"
+cover-image: #"images/cover.png"
+url: https://book.livingtogether.xyz/
 ---
 
 # Welcome {-}

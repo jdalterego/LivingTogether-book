@@ -1,13 +1,29 @@
-#bookdown::gitbook:
 bookdown::bs4_book:
-  css: bs4_style.css
   theme:
-    primary: "#096B72"
-  repo: https://github.com/rstudio/bookdown-demo
-bookdown::pdf_book:
+    primary: "#3860b6" #links  
+    base_font: 
+      google: 
+        family: Lato
+    heading_font:
+      google:
+        family: Montserrat
+        wght: 600
+    code_font:
+      google: 
+        family: Roboto Mono
+    bg: "#fefefe" #backgrounds
+    fg: "#000000" #fonts
+  repo: 
+    base: https://github.com/JonathanDolley/LivingTogether-book
+    branch: main
   includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-bookdown::epub_book: default
+    in_header: style/ga.html
+  template: style/bs4_book.html
+  css: style/style.css
+#bookdown::pdf_book:
+#  includes:
+#    in_header: preamble.tex
+#  latex_engine: xelatex
+#  citation_package: natbib
+#  keep_tex: yes
+#bookdown::epub_book: default
