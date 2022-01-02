@@ -4,3 +4,4 @@
 *.Rproj
 *.rds
 .Rproj.user/**
+.Rproj.user

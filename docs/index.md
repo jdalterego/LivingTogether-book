@@ -1,7 +1,7 @@
 --- 
 title: "Living Together: Hansalim"
 author: "Jonathan Dolley"
-date: "2022-01-01"
+date: "2022-01-02"
 site: bookdown::bookdown_site
 documentclass: krantz #refers to krantz.cls file in root directory copied from Robinlovelace/geocompr
 monofont: "Source Code Pro"
