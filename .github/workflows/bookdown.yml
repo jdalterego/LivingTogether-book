@@ -1,6 +1,9 @@
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
-# run renv::snapshot() locally and commit the renv.lock file before using this workflow.
+# Run renv::snapshot() locally and commit the renv.lock file before using this workflow.
+# Make sure the following packages are installed in the project renv before the snapshot is taken:
+# rmarkdown bookdown bslib downlit xml2
+# Set renv snapshot to list all packages: renv::settings$snapshot.type("all")
 on:
   push:
     branches: [main, master]
