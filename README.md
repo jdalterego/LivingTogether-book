@@ -12,3 +12,5 @@ This was done by creating a style/ga.html file containing the Global site tag co
 ```
 
 This adds the contents of the style/ga.html file to the header of each webpage when the book is built.
+
+Test bookdown.yml workflow.
