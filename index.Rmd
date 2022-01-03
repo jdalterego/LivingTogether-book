@@ -19,7 +19,7 @@ url: https://book.livingtogether.xyz/
 
 # Welcome {-}
 
-Netlify test
+Netlify test 2
 
 This book is a work in progress that I plan to publish "in real time" so to speak, as it is being written.
 
