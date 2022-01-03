@@ -19,6 +19,8 @@ url: https://book.livingtogether.xyz/
 
 # Welcome {-}
 
+Netlify test
+
 This book is a work in progress that I plan to publish "in real time" so to speak, as it is being written.
 
 It is a collaborative project with co-authors and I hope that this collaboration can extend to it's readers as well through the use of comments and discussions and also through suggested edits via github. So we welcome any input from interested readers who share a passion for the topic of organic and regenerative farming and the cooperative and solidarity economy.
