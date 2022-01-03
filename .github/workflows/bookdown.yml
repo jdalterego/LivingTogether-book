@@ -12,7 +12,7 @@ name: bookdown
 
 jobs:
   build:
-    runs-on: macOS-latest
+    runs-on: macOS-10.15
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }} #gets personal access token
     steps:
