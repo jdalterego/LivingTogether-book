@@ -29,7 +29,7 @@ This book is a work in progress that I plan to publish "in real time" so to spea
 
 It is already a collaborative project with co-authors at the Mosim and Salim Research Institute and I hope that this collaboration can extend to it's readers as well, through the use of comments and discussions and also through suggested edits via GitHub. So we welcome any input from interested readers who share a passion for the topic of organic and regenerative farming and the cooperative and solidarity economy.
 
-If you want to get involved but you have never heard of GitHub I have written a [brief explanation](/github.html) in appendix in this book that will hopefully help. 
+If you want to get involved but you have never heard of GitHub, I have written a [brief explanation](/github.html) in the appendix in this book that will hopefully help. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
