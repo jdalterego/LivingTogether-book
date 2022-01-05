@@ -72,3 +72,6 @@ If you want to raise a question or add comment then you can click on **"Open an 
 
 Writing this book is a central part of my research fellowship so I have a contract with the University of Sussex and the Mosim and Salim Research Institute. In light of this, in my role as the main author I would contribute the majority of the material and facilitate the interaction with the editorial team (at Sussex and Mosim) and other contributors and potential co-authors. Ultimately the decision whether or not to include substantial changes or contributions would be made by me and the editorial team.
 
+<hr>
+
+Photo by <a href="https://unsplash.com/@ivoafr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ivo Rainha</a> on <a href="https://unsplash.com/s/photos/library?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
