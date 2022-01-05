@@ -1,7 +1,7 @@
 --- 
 title: "Living Together: Hansalim"
 author: "Jonathan Dolley"
-date: "2022-01-04"
+date: "2022-01-05"
 site: bookdown::bookdown_site
 documentclass: krantz #refers to krantz.cls file in root directory copied from Robinlovelace/geocompr
 monofont: "Source Code Pro"
@@ -21,6 +21,8 @@ url: https://book.livingtogether.xyz/
 
 This book is a work in progress that I plan to publish "in real time" so to speak, as it is being written.
 
-It is a collaborative project with co-authors and I hope that this collaboration can extend to it's readers as well through the use of comments and discussions and also through suggested edits via github. So we welcome any input from interested readers who share a passion for the topic of organic and regenerative farming and the cooperative and solidarity economy.
+It is a collaborative project with co-authors and I hope that this collaboration can extend to it's readers as well, through the use of comments and discussions and also through suggested edits via GitHub. So we welcome any input from interested readers who share a passion for the topic of organic and regenerative farming and the cooperative and solidarity economy.
+
+Never heard of GitHub? This analogy might help explain things a bit.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
