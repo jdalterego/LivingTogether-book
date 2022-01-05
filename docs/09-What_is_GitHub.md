@@ -1,6 +1,6 @@
 # (PART) Appendix {-}
 
-# What is GitHub and how can I contribute to this book {-}
+# GitHub and this book {-#github}
 
 ## Imagine GitHub as a magic library {-}
 
@@ -11,11 +11,12 @@ Here's an analogy that might help explain it if you are unfamiliar with the worl
 Think of GitHub as being like a huge library that holds thousands, … mmm… more like millions of books that are available for everyone to read. Most of the books in this library are for computers to read (they are the recipe books that tell computers how make and run software). But there are also some books for humans to read.
 
 <img src="images/library-old.jpeg" width="100%" />
-## Infinite copies of books can be borrowed
+
+## Infinite copies of books can be borrowed {-}
 
 Unlike a normal library there is no limit to how many people can borrow each book at the same time. Every time someone borrows a book from this library, the original magically remains on the library shelf - there for anyone else to look at and borrow as well, if they so wish. This is pretty magical but there is even more amazing magic than that in this wonderful library called GitHub!
 
-## You are allowed to write in the books!
+## You are allowed to write in the books! {-}
 
 In a regular library, if you write on the pages of a borrowed book you can get into trouble. But in this library, you are encouraged to do so!
 
@@ -23,13 +24,13 @@ Let's say Jimin borrows a book called 'How to dance like BTS' by J Hope. As he i
 
 Jimin takes a pencil and corrects the typo on his copy of J Hope's book and then he pencils in the additional paragraphs for chapter 6 with a note explaining where they should go and why he thinks they would improve book. Then he holds up the book to his magic mirror which instantly makes his suggested changes appear in J Hope's original copy of the book.
 
-## By writing in a book you help the author improve it
+## By writing in a book you help the author improve it {-}
 
 As if by magic, (indeed by magic!) J Hope's copy of the book immediately flips open showing the pages that Jimin edited. So J Hope takes a look. Decides that they do in fact improve the book and so he sends a message to Jimin thanking him for his attention to detail and willingness to contribute to everyone's reading pleasure.
 
 Then J Hope holds his book up to his own magic mirror and immediately all the copies of his book everywhere in the world are instantly updated with the corrected text and Jimin's name is added to list of contributors at the back of the book.
 
-## You can even put an unfinished book in the library for others to help with
+## You can even put an unfinished book in the library for others to help with {-}
 
 Let's take this one step further. Let's say RM, having read J Hope's book, decides he wants to write a book as well. But he doesn't want to do it alone. So here is what he does.
 
