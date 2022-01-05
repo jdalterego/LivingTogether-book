@@ -68,7 +68,7 @@ To suggest edits on a chapter you simply need to click the **"Edit this page"** 
 
 If you want to raise a question or add comment then you can click on **"Open an issue".**
 
-## Who is in control of the book?
+## Who is in control of the book? {-}
 
 Writing this book is a central part of my research fellowship so I have a contract with the University of Sussex and the Mosim and Salim Research Institute. In light of this, in my role as the main author I would contribute the majority of the material and facilitate the interaction with the editorial team (at Sussex and Mosim) and other contributors and potential co-authors. Ultimately the decision whether or not to include substantial changes or contributions would be made by me and the editorial team.
 
